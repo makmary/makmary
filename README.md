@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mariia Makarova
 #### I am Fullstack Developer and student in National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)
-![I am Fullstack Developer]
+
 
 <!--
 **makmary/makmary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
