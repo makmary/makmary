@@ -4,8 +4,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/makmary)  
 
-![Profile views](https://gpvc.arturio.dev/makmary)  
-
 <!--
 **makmary/makmary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
