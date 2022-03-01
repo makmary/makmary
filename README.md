@@ -1,12 +1,10 @@
 ### Hi there 👋, my name is Mariia Makarova
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/makmary)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://makmary.github.io/resume/)  CV
 
 <!--
-**makmary/makmary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-You can find my CV here https://makmary.github.io/resume/
+**makmary/makmary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
