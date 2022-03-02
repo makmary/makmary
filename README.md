@@ -14,7 +14,7 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=makmary&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=makmary&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
