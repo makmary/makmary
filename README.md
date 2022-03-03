@@ -2,7 +2,7 @@
 
 ### 🦕 About me:
 
-- 🌻  Advanced Computational Science Student
+- 🌻  Advanced Computational Science Student from Skoltech
 - 🌱 I’m currently learning: **Neural Networks, Deep Learning**
 
 ### ✨ Links:
@@ -14,7 +14,7 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=makmary&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img align="left" width="360" src="https://github-readme-stats.vercel.app/api?username=makmary&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
