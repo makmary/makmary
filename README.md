@@ -1,11 +1,11 @@
 ## Hi there 👋, my name is Mariia Makarova
 
-### 🦕 About me:
+### About me:
 
-- 🌻  Advanced Computational Science Student from Skoltech
+- 🌻  Advanced Computational Science student from Skoltech
 - 🌱 I’m currently learning: **Neural Networks, Deep Learning**
 
-### ✨ Links:
+### Links:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/mashmallow_5)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=yellow)](mailto:makmary05@gmail.com)
